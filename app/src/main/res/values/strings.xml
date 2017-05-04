@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BDpractica</string>
+    <string name="descripci_n">Descripción:</string>
+    <string name="clave">Clave:</string>
+    <string name="precio">Precio:</string>
+    <string name="bd_practica">BD PRACTICA</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="consultar_por_clave">Consultar por clave</string>
+    <string name="consulta_por_descripci_n">consulta por descripción</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="modificar">Modificar</string>
+</resources>
